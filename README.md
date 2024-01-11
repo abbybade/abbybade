@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbybade
 - 👀 I’m interested in data algorithm, machine leanrning,AI, data structure and data analysis tools. 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on machine learning and risk analysis projects. 
 - 📫 How to reach me ...
 
 <!---
