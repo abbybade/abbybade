@@ -1,4 +1,4 @@
-👋 Hi, I’m @abbybade
+👋 Hi, I’m Abby Bade 
 
 👀 As a passionate data enthusiast, I am deeply interested in the intersection of data algorithms, machine learning, AI, and their application in business analysis. My curiosity lies in leveraging predictive modeling and data analysis tools to solve complex business challenges, improve decision-making processes, and drive strategic initiatives.
 
